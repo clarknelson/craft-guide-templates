@@ -1,6 +1,6 @@
 # Craft CMS
 
-[CLIENT_NAME]&rsquo;s website was built using the Craft CMS content management system (CMS). While Craft makes content management easy and intuitive, this guide is here to help get you started and to answer a few questions you may have along the way.
+[CLIENT_NAME]&rsquo;s website was built using the Craft CMS content management system (CMS). A content management system is designed to help non-technical people edit information on a website. While Craft makes content management easy and intuitive, this guide is here to help get you started and to answer a few questions you may have along the way.
 
 ---
 

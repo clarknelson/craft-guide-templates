@@ -15,6 +15,17 @@
     </div>
 </grid>
 
+<h2>Users</h2>
+
+<grid grid-type="2-column">
+    <div>
+        <p>The first thing you&rsquo;ll see when logging into Craft&rsquo;s Control Panel (CP) is the Dashboard. This page is home to helpful widgets that offer information about your website. The Dashboard is customizable for each user, so you may add, remove, and re-arrange the layout of the widgets you find most useful.</p>
+    </div>
+    <div>
+        {{ craft.guide.component('image', { asset: craft.assets.filename('index-dashboard.png').one() }) }}
+    </div>
+</grid>
+
 {% if plugin('admin-bar') %}
     <hr>
 
